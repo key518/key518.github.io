@@ -79,7 +79,4 @@ int main()//主函数
 ```
 
 *****
-[关注我的专题我们一起努力](https://www.jianshu.com/nb/38561107)
-![](https://upload-images.jianshu.io/upload_images/18557396-4e75f060f9bbae01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-******
-[下一篇->](https://www.jianshu.com/p/00dd7bdea836)
+
